@@ -1,0 +1,22 @@
+{
+  "name": "router_stats_myupgrade",
+  "version": "1.0.0",
+  "description": "mails the data usage per system to the users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sairam",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "mongoose": "^4.4.10",
+    "nodemailer": "^2.3.0",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "router",
+    "extrapolation"
+  ]
+}

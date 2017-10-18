@@ -1,0 +1,24 @@
+{
+    "auth" : {
+        "user": "notjustanotherteamhackathon@gmail.com",
+        "pass": "Misys123$"
+    },
+    "db_query":"mongodb://admin:admin@kahana.mongohq.com:10040/node_v1",
+    "host_address":"notjustanotherteamhackathon@gmail.com",    
+    "recipients": ["sairamsingireesu@gmail.com", "imyselfvikas@gmail.com","soham.sarbadhikari@gmail.com","pratik.falke03@gmail.com","seevickee@gmail.com"],
+    "mac_to_name_mail": {
+        "BC-77-37-7D-96-6E" : ["Vikas-PC", "vikas.kumar@misys.com"],
+        "C0-EE-FB-3B-07-8D" : ["Vikas-One+", "vikas.kumar@misys.com"],
+        "58-94-6B-46-8C-74" : ["Vignesh-PC", "seevickee@gmail.com"],
+        "90-68-C3-CC-AE-89" : ["Vignesh-MotoX", "seevickee@gmail.com"],
+        "4A-35-33-A9-EB-D6" : ["Sairam-PC", "sairamsingireesu@gmail.com"],
+        "80-6C-1B-91-F9-BB" : ["Sairam-MotoE", "sairamsingireesu@gmail.com"],
+        "44-6D-57-7D-42-48" : ["Soham-PC", "soham.sarbadhikari@gmail.com"],
+        "40-88-05-C8-00-B8" : ["Soham-MotoG", "soham.sarbadhikari@gmail.com"],
+        "C0-EE-FB-31-1C-1E" : ["Soham-One+", "soham.sarbadhikari@gmail.com"],
+        "00-6D-52-5A-1F-CC" : ["Pratik-iPhone", "pratik.falke03@gmail.com"],
+        "44-6D-57-70-9C-63" : ["Pratik-PC", "pratik.falke03@gmail.com"],
+        "10-BF-48-C1-37-FB" : ["Pratik-Tablet", "pratik.falke03@gmail.com"],
+        "FC-0F-E6-FA-21-56" : ["PS3", "pratik.falke03@gmail.com"]
+    }
+}
